@@ -33,7 +33,7 @@ I enjoy working close to the metal — from lock-free data structures to custom 
 
 #### Low-Latency & Trading Systems
 - FIX engines, market data handlers (ITCH/FAST), DPDK, kernel bypass
-- Sub-microsecond latency optimization, timestamping, HFT infrastructure
+- Sub-microsecond latency optimisation, timestamping, HFT infrastructure
 
 #### Tools & Technologies
 - Intel VTune, perf, Valgrind, GDB, Linux, Git, Docker, Kubernetes
